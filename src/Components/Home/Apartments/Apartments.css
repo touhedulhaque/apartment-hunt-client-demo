@@ -1,0 +1,41 @@
+.rent{
+    position: absolute;
+width: 91px;
+height: 24px;
+left: 667px;
+top: 482px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.0015em;
+
+color: #275A53;
+}
+.discover{
+    position: absolute;
+width: 414px;
+height: 100px;
+left: 509px;
+top: 509px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 50px;
+/* or 147% */
+
+text-align: center;
+letter-spacing: 0.0015em;
+
+color: #16322E;
+
+}
+.apt{
+    margin-top: 250px;
+}

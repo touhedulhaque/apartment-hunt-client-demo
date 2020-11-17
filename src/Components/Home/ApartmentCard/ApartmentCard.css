@@ -1,0 +1,17 @@
+.apartment{
+    padding: 40px !important;
+}
+.location{
+    height: 30px;  
+}
+.dollar{
+font-weight: 900px;
+color: #275A53;
+}
+.details{
+    color: white !important;
+    background-color: #275a53;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+}

@@ -1,0 +1,53 @@
+.srvcimg{
+    position: absolute !important;
+    width: 290px !important;
+    height: 220px !important;
+    left: 62px !important;
+    top: 8px !important;
+    align-items: center !important;
+    
+}
+.name{
+    position: absolute;
+width: 255px;
+height: 30px;
+left: 79px;
+top: 292px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: 0.0015em;
+
+color: #16322E;
+
+}
+.dsc{
+    position: absolute;
+width: 290px;
+height: 108px;
+left: -10px;
+top: 85px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 28px;
+/* or 175% */
+
+text-align: center;
+letter-spacing: 0.0015em;
+
+color: #606268;
+
+}
+.card-name{
+    font-weight: bolder;
+    font-size: 20px;
+}

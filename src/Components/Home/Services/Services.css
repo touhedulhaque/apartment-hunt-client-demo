@@ -1,0 +1,38 @@
+.service{
+    position: absolute;
+width: 59px;
+height: 24px;
+left: 661px;
+top: 1745px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.0015em;
+
+color: #275A53;
+}
+.agency{
+    position: absolute;
+width: 602px;
+height: 100px;
+left: 390px;
+top: 1813px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight:bolder;
+font-size: 34px;
+line-height: 50px;
+/* or 147% */
+
+text-align: center;
+letter-spacing: 0.0015em;
+
+color: #16322E;
+
+}

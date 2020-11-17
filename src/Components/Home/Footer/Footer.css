@@ -1,0 +1,56 @@
+.footer{
+    background-color: #275A53 !important;
+    margin-top: 550px;
+    height: 300px;
+
+}
+ .footerp{
+    position: absolute;
+width: 346px;
+height: 96px;
+left: 119px;
+top: 100px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.0015em;
+
+color: #FFFFFF;
+} 
+.lctn{
+    margin-top: 100px;
+    height: 40px;
+    margin-left: 60px !important;
+}
+.company{
+    margin-top: 80px;
+    margin-left: 230px;
+    color: white;
+}
+.links{
+    margin-top: 80px;
+    margin-left: 15px;
+    color: white;
+}
+.about{
+    margin-top: 80px;
+    margin-left: 15px;
+    color: white; 
+}
+.social-media .icon{
+    height: 40px;
+    width: 40px;
+    color: #1cc7c1;
+    border-radius: 50%;
+    border: 1px solid #6ACECE;
+    padding: 10px;
+}
+.social-media .active-icon{
+    background-color: #6ACECE ;
+    color:white;
+}
