@@ -7,7 +7,11 @@ const Header = () => {
     return (
         <div>
             <NavbarAh></NavbarAh>
-            <HeaderMain></HeaderMain>
+            <div className="bg-head">
+                <div className="head">
+                    <HeaderMain></HeaderMain>
+                </div>
+            </div>
         </div>
     );
 };
